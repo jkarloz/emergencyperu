@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Emergencies Peru</string>
+    <string name="main_title">Emergency Numbers</string>
+    <string name="firefighters">Firefighters</string>
+    <string name="police">Police</string>
+    <string name="red_cross">Red Cross</string>
+    <string name="civil_defense">Civil Defense</string>
+    <string name="samu" translatable="false">SAMU</string>
+    <string name="domestic_violence">Domestic Violence</string>
+    <string-array name="numbers_labels">
+        <item>@string/firefighters</item>
+        <item>@string/police</item>
+        <item>@string/red_cross</item>
+        <item>@string/civil_defense</item>
+        <item>@string/samu</item>
+        <item>@string/domestic_violence</item>
+    </string-array>
+    <string-array name="emergency_numbers">
+        <item>116</item>
+        <item>105</item>
+        <item>115</item>
+        <item>110</item>
+        <item>106</item>
+        <item>100</item>
+    </string-array>
+</resources>

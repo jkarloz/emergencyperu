@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Emergencias Perú</string>
+    <string name="main_title">Números de Emergencia</string>
+    <string name="firefighters">Bomberos</string>
+    <string name="police">Policia</string>
+    <string name="red_cross">Cruz Roja</string>
+    <string name="civil_defense">Defensa Civil</string>
+    <string name="domestic_violence">Violencia Familiar</string>
+</resources>
